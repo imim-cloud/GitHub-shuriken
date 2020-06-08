@@ -1,0 +1,12 @@
+php export-sitemap.php "https://contoh-soal9.netlify.app/" "weekly" "0.5" "7 may 2019" "optional"
+
+
+php export-sitemap.php "http://inditama-1.netlify.app/" "weekly" "0.8" "7 may 2019" 
+
+php export-sitemap.php "https://inditama-2.netlify.app/" "weekly" "0.8" "7 may 2019" 
+
+php export-sitemap.php "https://inditama-3.netlify.app/" "weekly" "0.8" "7 may 2019" 
+
+php export-sitemap.php "https://inditama-4.netlify.app/" "weekly" "0.8" "7 may 2019" 
+
+php export-sitemap.php "https://inditama-5.netlify.app/" "weekly" "0.8" "7 may 2019" 
